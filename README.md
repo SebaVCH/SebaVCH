@@ -42,8 +42,4 @@ I'm a passionate **web developer** focused on **Go and React**, and also a **bug
 
 ---
 
-### 📫 Connect with Me
-📩 Find me on:
-- [LinkedIn](www.linkedin.com/in/sebastianVCH)
-
 Thanks for visiting my profile! 🚀
