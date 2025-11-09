@@ -1,11 +1,11 @@
 ### 👋 Hi! I'm [Sebastian VCH]  
-I'm a passionate **web developer** focused on **Go and React**, and also a **bug bounty hunter** on **BugCrowd**.
+I'm a passionate **web developer** focused on **Go and Angular**, and also a **bug bounty hunter** on **BugCrowd**.
 
 ---
 
 ### 🚀 About Me
 - 💻 Focused on **backend with Go (Gin, GORM, GraphQL)**
-- 🌐 Frontend with **React & TypeScript**
+- 🌐 Frontend with **Angular & TypeScript**
 - 🔍 Exploring the world of **bug bounty** and **pentesting**
 - 📚 Studying at the Universidad Catolica del Norte.
 - 🔥 Always looking for new challenges and opportunities
@@ -16,8 +16,8 @@ I'm a passionate **web developer** focused on **Go and React**, and also a **bug
 
 <picture> <img align="right" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221222184908/web-development1.png" width = 300px></picture>
 
-- **Programming Languages:** Go, TypeScript, JavaScript
-- **Technologies:** GORM, Gin, GraphQL, React
+- **Programming Languages:** Go, TS/JS, Python
+- **Technologies:** GORM, Gin, GraphQL, Angular, Github Actions
 - **Databases:** SQLite, PostgreSQL, MongoDB
 - **IDEs:** GoLand
 - **Problem Solving:** [Exercism](https://exercism.org/profiles/SebaVCH)
@@ -31,7 +31,7 @@ I'm a passionate **web developer** focused on **Go and React**, and also a **bug
 
 - **Ethical Hacking**
 - **Programming Languages:** Go, Python
-- **Operating Systems:** Windows 11, Kali Linux, Ubuntu, Parrot OS Security
+- **Operating Systems:** Windows 11, Kali Linux, Ubuntu, Parrot OS Security, Arch Linux
 - **Bug Bounty Hunter:** [BugCrowd](https://bugcrowd.com/perroWaton)
 
 ---
